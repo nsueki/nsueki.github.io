@@ -1,0 +1,13 @@
+body{
+	font-family: "Marker Felt", "Arial", fantasy;
+	background-color: #09BCFA;
+	color: #011215;
+}
+
+h1 {
+    text-shadow: 2px 2px #22F014;
+}
+
+h2 {
+    text-shadow: 2px 2px #FBF002;
+}
